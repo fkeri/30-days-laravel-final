@@ -30,7 +30,7 @@
             </div>
         </nav>
 
-        <main class="mt-10 max-w-[986px]">{{ $slot }}</main>
+        <main class="mt-10 max-w-[986px] mx-auto">{{ $slot }}</main>
     </div>
 </body>
 
